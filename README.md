@@ -1,10 +1,19 @@
 # morning-algorithm-study
+
+## 문제 링크
+### 2주차
+:dart: [색깔 트리](https://www.codetree.ai/training-field/frequent-problems/problems/color-tree)  |  [사물인식 최소 면적 산출 프로그램](https://softeer.ai/practice/6277)
+
+
 ## 양식
 - 주간 폴더명을 `week01` 형식으로 만들기
 - 폴더 내 README파일을 만들고, 문제 및 풀이기간을 명시하기
-- 출제 사이트 및 문제 번호로 폴더 만들기 ex) `codetree_2024_1_2`, `softeer_6277`
+- 출제 사이트 및 문제 번호로 폴더 만들기 ex) `codetree_연도_상반기/하반기_am/pm_문제번호`, `softeer_문제번호`
 > 빈 폴더를 commit하는 방법: 폴더 내에 `.gitkeep` 파일 생성
-- 코드 파일명은 `codetree_2024_1_2_김명화.java` 형식으로 하기
+
+### 코드 파일명
+- `codetree_연도_상반기/하반기_am/pm_문제번호_이름.java`
+- `softeer_문제번호_이름.java`
 
 ## Branch 관리
 - 문제 출제자가 주간 폴더, 문제별 폴더 및 README를 작성하여 Main에 올리기
