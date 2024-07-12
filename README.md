@@ -1,9 +1,11 @@
 # morning-algorithm-study
 
 ## 문제 링크
-### 2주차
+### 1주차
 :dart: [색깔 트리](https://www.codetree.ai/training-field/frequent-problems/problems/color-tree)  |  [사물인식 최소 면적 산출 프로그램](https://softeer.ai/practice/6277)
 
+### 2주차
+:dart: [코드트리 투어](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-tour/description?page=1&pageSize=5)  |  [Garage game](https://softeer.ai/practice/6276)
 
 ## 양식
 - 주간 폴더명을 `week01` 형식으로 만들기
