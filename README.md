@@ -14,6 +14,10 @@
 
 :dart: [코드트리 오마카세](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-omakase/description?page=1&pageSize=5) | [빈도 정렬](https://www.acmicpc.net/problem/2910)
 
+### 4주차
+
+:dart: [코드트리 메신저](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-messenger/description?page=2&pageSize=5) | [예산](https://www.acmicpc.net/problem/2512)
+
 ## 양식
 
 - 주간 폴더명을 `week01` 형식으로 만들기
