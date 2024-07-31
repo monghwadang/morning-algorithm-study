@@ -1,4 +1,4 @@
-package week02.codetree_2024_1_am_2;
+package codetree_2024_1_am_2;
 
 import java.util.*;
 
