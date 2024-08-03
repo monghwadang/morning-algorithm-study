@@ -18,6 +18,10 @@
 
 :dart: [코드트리 메신저](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-messenger/description?page=2&pageSize=5) | [예산](https://www.acmicpc.net/problem/2512)
 
+### 5주차
+
+:dart: Pro 1 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
+
 ## 양식
 
 - 주간 폴더명을 `week01` 형식으로 만들기
