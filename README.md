@@ -22,6 +22,10 @@
 
 :dart: Pro 1 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
 
+### 6주차
+
+:dart: [나머지 합](https://www.acmicpc.net/problem/10986) | [로봇이 지나간 경로](https://softeer.ai/practice/6275)
+
 ## 양식
 
 - 주간 폴더명을 `week01` 형식으로 만들기
