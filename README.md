@@ -26,6 +26,10 @@
 
 :dart: [나머지 합](https://www.acmicpc.net/problem/10986) | [로봇이 지나간 경로](https://softeer.ai/practice/6275)
 
+### 7주차
+
+:dart: [승강제리그](https://swexpertacademy.com/main/code/codeBattle/problemDetail.do?contestProbId=AYH2FcG6secDFATO&categoryId=AZEGCEMa7TkDFAQW) | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
+
 ## 양식
 
 - 주간 폴더명을 `week01` 형식으로 만들기
